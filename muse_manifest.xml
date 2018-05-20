@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="betnavigators.ru" resolutions="1x" timestamp="1526840254814">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3956716858" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensanssemibold.woff" crc="3810627378"/>
+    <file name="opensanssemibold.eot" crc="3881729729"/>
+    <file name="opensansbold.woff" crc="259848611"/>
+    <file name="opensansbold.eot" crc="4179066820"/>
+    <file name="rubikbold.woff" crc="524820623"/>
+    <file name="rubik-bold1.eot" crc="412544745"/>
+    <file name="rubik.woff" crc="179591064"/>
+    <file name="rubik-regular1.eot" crc="4109585504"/>
+    <file name="rubikmedium.woff" crc="3923973178"/>
+    <file name="rubik-medium1.eot" crc="465689709"/>
+  </folder>
+  <folder name="assets">
+    <file name="release.zip" crc="452727446" seo="true" mt="1526328074000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="программа-ставок-на-футбол-favicon.ico" crc="3939315088" ref="index"/>
+    <file name="icons8-компас-500-u277-fr.png" crc="3989797119" ref="index"/>
+    <file name="icons8-комбинированный-график-50.png" crc="4240457960" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-футбольный-мяч-50.png" crc="270320483" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-клиент-для-windows-50.png" crc="61935205" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-доступные-обновления-50.png" crc="350444179" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-компас-500-u320-fr.png" crc="4220817537" ref="index"/>
+    <file name="icons8-компас-500-u302.png" crc="412553882" ref="index"/>
+    <file name="icons8-компас-500-u413-3-fr.png" crc="4279966497" ref="index"/>
+  </folder>
+  <file name="index.html" crc="530938511" seo="true" mt="1526840245015" redirect="true"/>
+</manifest>
