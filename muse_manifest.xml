@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="betnavigators.ru" resolutions="1x" timestamp="1526840254814">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="betnavigators.ru" resolutions="1x" timestamp="1527022459406">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3956716858" ref="index"/>
+    <file name="index.css" crc="162197532" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="opensanssemibold.woff" crc="3810627378"/>
@@ -14,6 +14,8 @@
     <file name="rubik-regular1.eot" crc="4109585504"/>
     <file name="rubikmedium.woff" crc="3923973178"/>
     <file name="rubik-medium1.eot" crc="465689709"/>
+    <file name="rubiklight.woff" crc="83051544"/>
+    <file name="rubik-light1.eot" crc="148130403"/>
   </folder>
   <folder name="assets">
     <file name="release.zip" crc="452727446" seo="true" mt="1526328074000"/>
@@ -25,8 +27,6 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
@@ -47,7 +47,7 @@
     </file>
     <file name="icons8-компас-500-u320-fr.png" crc="4220817537" ref="index"/>
     <file name="icons8-компас-500-u302.png" crc="412553882" ref="index"/>
-    <file name="icons8-компас-500-u413-3-fr.png" crc="4279966497" ref="index"/>
+    <file name="icons8-компас-500-u413-3-fr.png" crc="4108864899" ref="index"/>
   </folder>
-  <file name="index.html" crc="530938511" seo="true" mt="1526840245015" redirect="true"/>
+  <file name="index.html" crc="85622061" seo="true" mt="1527022436240" redirect="true"/>
 </manifest>
